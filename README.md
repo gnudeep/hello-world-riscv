@@ -6,8 +6,9 @@ You can build the program using the `make` commnad.
 
 You can examing the binary uisng the `readelf -a hello`.
 
-You can run using spik emulator
-```bash
+You can run using Spike RISC-V ISA simulator.
+
+```
 spike pk hello
 ```
 
