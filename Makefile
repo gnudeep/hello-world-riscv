@@ -1,4 +1,4 @@
-CC = riscv64-unknown-linux-gnu-gcc
+CC = riscv64-unknown-elf-gcc
 CFLAGS = -O2 -static
 
 hello: hello.c
