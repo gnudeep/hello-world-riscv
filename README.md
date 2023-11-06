@@ -1,14 +1,14 @@
 # Hello World Example Build for RISC-V
 
-This example builds hello world exaple build ELF binary for the RISC-V architecture. 
+This example builds hello-world ELF binary for the RISC-V architecture. 
 
-You can build the program using the `make` commnad.
+You can build the program using the `make` command.
 
-You can examing the binary uisng the `readelf -a hello`.
+You can examine the binary using the `readelf -a hello`.
 
 You can run using Spike RISC-V ISA simulator.
 
 ```
-spike pk hello
+spike <path>pk hello
 ```
 
